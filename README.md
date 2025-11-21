@@ -1,29 +1,17 @@
-# Next.js Resume App
+# jake slone
 
-A simple Next.js app displaying a clean resume layout.
+jake@slone.ca | [linkedin](https://www.linkedin.com/in/jakeslone98/) | [twitter](https://x.com/jslone98)
 
-## Getting Started
+fullstack dev
 
-First, install the dependencies:
+## sites
 
-```bash
-npm install
-```
+[slone](https://slone.ca) - my freelance design studio. since 2019 i've built sites for a variety of clients.
 
-Then, run the development server:
+[bxsite](https://bxsite.com) - the fastest and easiest way to build a website.
 
-```bash
-npm run dev
-```
+## experience
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[nait](https://nait.ca) (2023 - present) - led redesign of frontend and api for revamp of nait.ca. converted to modern architecture that improved performance and reliability.
 
-## Build
-
-To create a production build:
-
-```bash
-npm run build
-npm start
-```
-
+[critical mass](https://criticalmass.com) (2019 - 2023) - worked primarily on the nissan/infiniti account. maintained legacy cms and worked on many different campaigns and projects.
